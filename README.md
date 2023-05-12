@@ -6,4 +6,4 @@ Implementation currency exchange office smart contract in Solidity, powered by E
 - File `JBCoin.sol` contains custom ERC20 token implementation.
 
 ## Deployment
-You can deploy both smart contracts after uploading them to Remix IDE. It is recommended to initialize CurrencyExchangeOffice with JBCoin address.
+You can deploy both smart contracts after uploading them to Remix IDE. It is recommended to initialize `CurrencyExchangeOffice` with `JBCoin` address.
